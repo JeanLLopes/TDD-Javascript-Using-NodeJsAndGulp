@@ -1,0 +1,23 @@
+{
+  "name": "tdd-javascript",
+  "version": "1.0.0",
+  "description": "TDD-Javascript-Using-NodeJsAndGulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanLLopes/TDD-Javascript-Using-NodeJsAndGulp.git"
+  },
+  "author": "Jean Lopes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeanLLopes/TDD-Javascript-Using-NodeJsAndGulp/issues"
+  },
+  "homepage": "https://github.com/JeanLLopes/TDD-Javascript-Using-NodeJsAndGulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jasmine": "^2.4.2"
+  }
+}
