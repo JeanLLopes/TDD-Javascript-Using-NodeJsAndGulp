@@ -16,3 +16,6 @@ exemplo1/gulpfile.js
 
 #5
 Conteúdo do arquivo exemplo1/src/spec/ArvoreSpec.js
+
+#6
+ Conteúdo do arquivo exemplo1/src/prod/Arvore.js
