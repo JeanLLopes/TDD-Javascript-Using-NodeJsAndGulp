@@ -1,4 +1,4 @@
-var gulp = required('gulp');
+var gulp = require('gulp');
 var jasmine = require('gulp-jasmine');
 
 var caminhoDoCodigoFonte = 'src/**/*.js';
