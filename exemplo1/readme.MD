@@ -1,6 +1,8 @@
-#1 npm init
+#1 
+npm init
 
-#2 npm install gulp gulp-jasmine --save-dev
+#2 
+npm install gulp gulp-jasmine --save-dev
 
 #3 
 mkdir src
@@ -11,3 +13,6 @@ cd ..
 
 #4 
 exemplo1/gulpfile.js
+
+#5
+Conteúdo do arquivo exemplo1/src/spec/ArvoreSpec.js
