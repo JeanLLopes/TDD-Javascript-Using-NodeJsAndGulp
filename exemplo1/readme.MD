@@ -19,3 +19,6 @@ Conteúdo do arquivo exemplo1/src/spec/ArvoreSpec.js
 
 #6
  Conteúdo do arquivo exemplo1/src/prod/Arvore.js
+
+#7
+ Código de Arvore.js após primeira modificação
